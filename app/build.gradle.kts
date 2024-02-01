@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.toudoux"
+    namespace = "com.cephas.toudoux"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.toudoux"
+        applicationId = "com.cephas.toudoux"
         minSdk = 29
         targetSdk = 34
         versionCode = 1

@@ -39,52 +39,51 @@
 26-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:11:9-54
 27        android:supportsRtl="true"
 27-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:12:9-35
-28        android:testOnly="true"
-29        android:theme="@style/Theme.Toudoux" >
-29-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:13:9-45
-30        <activity
-30-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:15:9-23:20
-31            android:name="com.example.toudoux.MainActivity"
-31-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:16:13-41
-32            android:exported="true" >
-32-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:17:13-36
-33            <intent-filter>
-33-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:18:13-22:29
-34                <action android:name="android.intent.action.MAIN" />
-34-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:19:17-69
-34-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:19:25-66
-35
-36                <category android:name="android.intent.category.LAUNCHER" />
-36-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:21:17-77
-36-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:21:27-74
-37            </intent-filter>
-38        </activity>
-39        <activity android:name="com.example.toudoux.FormActivity" >
-39-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:24:9-26:20
-39-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:24:19-47
-40        </activity>
-41
-42        <provider
-42-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-43            android:name="androidx.startup.InitializationProvider"
-43-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-44            android:authorities="com.example.toudoux.androidx-startup"
-44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-45            android:exported="false" >
-45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-46            <meta-data
-46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-47                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-48                android:value="androidx.startup" />
-48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-49            <meta-data
-49-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\pierr\.gradle\caches\transforms-3\f0090aa3e6e0adf1c9f9a46b9f8972dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-50                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-50-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\pierr\.gradle\caches\transforms-3\f0090aa3e6e0adf1c9f9a46b9f8972dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-51                android:value="androidx.startup" />
-51-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\pierr\.gradle\caches\transforms-3\f0090aa3e6e0adf1c9f9a46b9f8972dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-52        </provider>
-53    </application>
-54
-55</manifest>
+28        android:theme="@style/Theme.Toudoux" >
+28-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:13:9-45
+29        <activity
+29-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:15:9-23:20
+30            android:name="com.example.toudoux.MainActivity"
+30-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:16:13-41
+31            android:exported="true" >
+31-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:17:13-36
+32            <intent-filter>
+32-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:18:13-22:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:19:17-69
+33-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:19:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:21:17-77
+35-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:21:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity android:name="com.example.toudoux.FormActivity" >
+38-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:24:9-26:20
+38-->C:\Users\pierr\AndroidStudioProjects\toudoux\app\src\main\AndroidManifest.xml:24:19-47
+39        </activity>
+40
+41        <provider
+41-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+42            android:name="androidx.startup.InitializationProvider"
+42-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+43            android:authorities="com.example.toudoux.androidx-startup"
+43-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+44            android:exported="false" >
+44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+45            <meta-data
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+46                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+47                android:value="androidx.startup" />
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pierr\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+48            <meta-data
+48-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\pierr\.gradle\caches\transforms-3\f0090aa3e6e0adf1c9f9a46b9f8972dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+49                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+49-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\pierr\.gradle\caches\transforms-3\f0090aa3e6e0adf1c9f9a46b9f8972dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+50                android:value="androidx.startup" />
+50-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\pierr\.gradle\caches\transforms-3\f0090aa3e6e0adf1c9f9a46b9f8972dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+51        </provider>
+52    </application>
+53
+54</manifest>

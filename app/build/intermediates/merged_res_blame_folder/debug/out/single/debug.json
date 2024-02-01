@@ -32,6 +32,10 @@
         "source": "C:\\Users\\pierr\\.gradle\\daemon\\8.2\\com.example.toudoux.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "com.example.toudoux.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.toudoux.app-main-30:/layout/activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\pierr\\.gradle\\daemon\\8.2\\com.example.toudoux.app-merged_res-28:\\mipmap-anydpi_ic_launcher.xml.flat",
         "source": "C:\\Users\\pierr\\.gradle\\daemon\\8.2\\com.example.toudoux.app-main-30:\\mipmap-anydpi\\ic_launcher.xml"
     },
@@ -74,9 +78,5 @@
     {
         "merged": "C:\\Users\\pierr\\.gradle\\daemon\\8.2\\com.example.toudoux.app-merged_res-28:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\pierr\\.gradle\\daemon\\8.2\\com.example.toudoux.app-main-30:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "com.example.toudoux.app-merged_res-28:/layout_list_item_title.xml.flat",
-        "source": "com.example.toudoux.app-main-30:/layout/list_item_title.xml"
     }
 ]
